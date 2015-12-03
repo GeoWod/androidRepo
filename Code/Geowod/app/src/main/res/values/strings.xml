@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Geowod</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="signup_text"><u>New to Geowod? Sign up</u></string>
+    <string name="openDrawer">openDrawer</string>
+    <string name="closeDrawer">closeDrawer</string>
+    <string name="app_id">1484029481890625</string>
+    <string name="API_KEY">AIzaSyCLHd5b88y0M0Ri0GvNeX17IsFxJ1Qj7aA</string>
+    <string name="create_geowod">Create Geowod</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_create">Create</string>
+    <string name="please_wait">Please wait</string>
+    <string name="amrap">AMRAP</string>
+    <string name="for_time">For Time</string>
+    <string name="intervals">Intervals</string>
+
+
+
+    <!--      create geowod strings          -->
+    <string name="how_many_rounds">How many rounds</string>
+    <string name="how_long_is_each_round">How long is each round(min)</string>
+    <string name="how_much_rest">How much rest(min)</string>
+    <string name="how_long_isthe_workout">How long is the workout(min)</string>
+    <string name="my_score">My Score</string>
+    <string name="reps">reps</string>
+    <string name="submit_workout">Submit Workout for Approval</string>
+
+
+
+
+
+
+</resources>
